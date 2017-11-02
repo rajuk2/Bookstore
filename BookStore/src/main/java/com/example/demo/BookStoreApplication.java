@@ -16,6 +16,7 @@ public class BookStoreApplication {
 	public static void main(String[] args) {
 		System.out.println("inside main");
 		System.out.println("inside main");
+		System.out.println("inside main");
 		SpringApplication.run(BookStoreApplication.class, args);
 	}
 }
