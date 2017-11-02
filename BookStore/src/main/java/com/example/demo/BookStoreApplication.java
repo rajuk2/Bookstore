@@ -13,6 +13,7 @@ public class BookStoreApplication {
 		System.out.println("ffutugjfj");
 		System.out.println("ffutugjfj");
 		System.out.println("ffutugjfj");
+		System.out.println("added submaster features");
 		SpringApplication.run(BookStoreApplication.class, args);
 	}
 }
