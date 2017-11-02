@@ -12,6 +12,7 @@ public class BookStoreApplication {
 	public static void main(String[] args) {
 		System.out.println("ffutugjfj");
 		System.out.println("ffutugjfj");
+		System.out.println("ffutugjfj");
 		SpringApplication.run(BookStoreApplication.class, args);
 	}
 }
